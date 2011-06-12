@@ -1,0 +1,1 @@
+Unless otherwise specified, all files in this repository are released under the Creative Commons Attribution Share-Alike 3.0 License http://creativecommons.org/licenses/by-sa/3.0 to their respective designers.
