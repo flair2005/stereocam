@@ -1,0 +1,7 @@
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_camera|SchDesignator=U_camera|FileName=camera.SchDoc|SymbolType=Normal|RawFileName=camera.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_config|SchDesignator=U_config|FileName=config.SchDoc|SymbolType=Normal|RawFileName=config.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_fpga|SchDesignator=U_fpga|FileName=fpga.SchDoc|SymbolType=Normal|RawFileName=fpga.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_panda|SchDesignator=U_panda|FileName=panda.SchDoc|SymbolType=Normal|RawFileName=panda.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_power|SchDesignator=U_power|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_sdram|SchDesignator=U_sdram|FileName=sdram.SchDoc|SymbolType=Normal|RawFileName=sdram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=main.SchDoc

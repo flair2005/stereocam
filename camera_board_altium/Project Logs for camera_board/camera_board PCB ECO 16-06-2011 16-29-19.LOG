@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=C1SCL Pin=U1-3
+Removed Pin From Net: NetName=C1SDA Pin=U1-4
+Removed Pin From Net: NetName=C1XCLK Pin=U1-5
+Removed Pin From Net: NetName=C1HREF Pin=U1-8
+Removed Pin From Net: NetName=C1SYNC Pin=U1-9
+Removed Pin From Net: NetName=C1PCLK Pin=U1-11
+Removed Pin From Net: NetName=C1FSIN Pin=U1-25
+Removed Pin From Net: NetName=C1PWDN Pin=U1-28
+Added Pin To Net: NetName=C1SDA Pin=U1-3
+Added Pin To Net: NetName=C1SCL Pin=U1-4
+Added Pin To Net: NetName=C1HREF Pin=U1-5
+Added Pin To Net: NetName=C1XCLK Pin=U1-8
+Added Pin To Net: NetName=C1PCLK Pin=U1-9
+Added Pin To Net: NetName=C1SYNC Pin=U1-11
+Added Pin To Net: NetName=C1PWDN Pin=U1-25
+Added Pin To Net: NetName=C1FSIN Pin=U1-28

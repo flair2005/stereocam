@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=D3-K
+Removed Pin From Net: NetName=GND Pin=D4-K
+Removed Member From Class: ClassName=U_config Member=D1
+Removed Member From Class: ClassName=U_fpga Member=D3
+Removed Member From Class: ClassName=U_fpga Member=D4
+Removed Member From Class: ClassName=U_fpga Member=R23
+Removed Member From Class: ClassName=U_fpga Member=R24

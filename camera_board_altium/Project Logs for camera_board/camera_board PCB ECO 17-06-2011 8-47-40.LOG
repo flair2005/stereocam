@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=DONE Pin=R11-1
+Removed Pin From Net: NetName=CLK Pin=U1-180
+Removed Pin From Net: NetName=CLK Pin=U10-4
+Removed Member From Class: ClassName=U_config Member=R11
+Change Component DesignItemId : Designator=R11 Old DesignItemId=0603R-330 New DesignItemId=0603R-470
+Change Component Footprint: Designator=R11 Old Footprint=0603R-330 New Footprint=0603R-470
+Change Component Comment : Designator=R11 Old Comment=330R New Comment=470R
+Added Component: Designator=D1(LED-3MM-RED)
+Added Component: Designator=D2(LED-3MM-RED)
+Added Component: Designator=D3(LED-3MM-RED)
+Added Component: Designator=D4(LED-3MM-RED)
+Added Component: Designator=D5(LED-3MM-RED)
+Added Component: Designator=D6(LED-3MM-GREEN)
+Added Component: Designator=K6(HEADER-2X2)
+Added Component: Designator=R22(0603R-470)
+Added Component: Designator=R23(0603R-470)
+Added Component: Designator=R24(0603R-470)
+Added Component: Designator=R25(0603R-470)
+Added Component: Designator=R26(0603R-470)
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=GND Pin=D4-K
+Added Pin To Net: NetName=GND Pin=D5-K
+Added Pin To Net: NetName=GND Pin=D6-K
+Added Pin To Net: NetName=5V Pin=K6-1
+Added Pin To Net: NetName=GND Pin=K6-2
+Added Pin To Net: NetName=5V Pin=K6-3
+Added Pin To Net: NetName=GND Pin=K6-4
+Added Pin To Net: NetName=3V3 Pin=R25-1
+Added Pin To Net: NetName=DONE Pin=R26-1
+Added Pin To Net: NetName=CLK_SD Pin=U1-180
+Added Pin To Net: NetName=CLK_SD Pin=U10-4
+Added Net: Name=CLK_SD
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R11-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R22-2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R23-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R24-2
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R25-2
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R26-2
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U1-164
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=U1-163
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U1-162
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=U1-161
+Added Net: Name=NetR24_1
+Added Member To Class: ClassName=U_fpga Member=Component D1 LED-RED-3MM
+Added Member To Class: ClassName=U_fpga Member=Component D2 LED-RED-3MM
+Added Member To Class: ClassName=U_fpga Member=Component D3 LED-RED-3MM
+Added Member To Class: ClassName=U_fpga Member=Component D4 LED-RED-3MM
+Added Member To Class: ClassName=U_power Member=Component D5 LED-RED-3MM
+Added Member To Class: ClassName=U_config Member=Component D6 LED-GREEN-3MM
+Added Member To Class: ClassName=U_power Member=Component K6 HEADER-2X2
+Added Member To Class: ClassName=U_fpga Member=Component R11 470R
+Added Member To Class: ClassName=U_fpga Member=Component R22 470R
+Added Member To Class: ClassName=U_fpga Member=Component R23 470R
+Added Member To Class: ClassName=U_fpga Member=Component R24 470R
+Added Member To Class: ClassName=U_power Member=Component R25 470R
+Added Member To Class: ClassName=U_config Member=Component R26 470R

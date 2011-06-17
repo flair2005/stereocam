@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CLK Pin=U1-185
+Removed Pin From Net: NetName=GPIOA Pin=U1-186
+Removed Pin From Net: NetName=GPIOB Pin=U1-187
+Added Pin To Net: NetName=GPIOB Pin=U1-178
+Added Pin To Net: NetName=GPIOA Pin=U1-179
+Added Pin To Net: NetName=CLK Pin=U1-180

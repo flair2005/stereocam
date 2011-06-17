@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=D16 Pin=RP1-1
+Removed Pin From Net: NetName=D17 Pin=RP1-2
+Removed Pin From Net: NetName=D18 Pin=RP1-3
+Removed Pin From Net: NetName=D19 Pin=RP1-4
+Removed Pin From Net: NetName=D20 Pin=RP1-5
+Removed Pin From Net: NetName=D21 Pin=RP1-6
+Removed Pin From Net: NetName=D22 Pin=RP1-7
+Removed Pin From Net: NetName=D23 Pin=RP1-8
+Added Pin To Net: NetName=D23 Pin=RP1-1
+Added Pin To Net: NetName=D22 Pin=RP1-2
+Added Pin To Net: NetName=D21 Pin=RP1-3
+Added Pin To Net: NetName=D20 Pin=RP1-4
+Added Pin To Net: NetName=D19 Pin=RP1-5
+Added Pin To Net: NetName=D18 Pin=RP1-6
+Added Pin To Net: NetName=D17 Pin=RP1-7
+Added Pin To Net: NetName=D16 Pin=RP1-8

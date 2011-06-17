@@ -1,0 +1,56 @@
+Added Component: Designator=C46(0603C-GENERIC)
+Added Component: Designator=C47(0603C-GENERIC)
+Added Component: Designator=C48(0603C-GENERIC)
+Added Component: Designator=C49(0603C-GENERIC)
+Added Component: Designator=C50(0603C-GENERIC)
+Added Component: Designator=C51(0603C-GENERIC)
+Added Component: Designator=C52(0603C-GENERIC)
+Added Component: Designator=C53(0603C-GENERIC)
+Added Component: Designator=C54(0603C-GENERIC)
+Added Component: Designator=C55(0805C-GENERIC)
+Added Component: Designator=IS42S32200E(TSSOP50P1175-86M)
+Added Pin To Net: NetName=3V3 Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=3V3 Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=3V3 Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=3V3 Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=3V3 Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=3V3 Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=3V3 Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=3V3 Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=3V3 Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=3V3 Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-1
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-3
+Added Pin To Net: NetName=GND Pin=IS42S32200E-6
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-9
+Added Pin To Net: NetName=GND Pin=IS42S32200E-12
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-15
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-29
+Added Pin To Net: NetName=GND Pin=IS42S32200E-32
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-35
+Added Pin To Net: NetName=GND Pin=IS42S32200E-38
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-41
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-43
+Added Pin To Net: NetName=GND Pin=IS42S32200E-44
+Added Pin To Net: NetName=GND Pin=IS42S32200E-46
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-49
+Added Pin To Net: NetName=GND Pin=IS42S32200E-52
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-55
+Added Pin To Net: NetName=GND Pin=IS42S32200E-58
+Added Pin To Net: NetName=GND Pin=IS42S32200E-72
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-75
+Added Pin To Net: NetName=GND Pin=IS42S32200E-78
+Added Pin To Net: NetName=3V3 Pin=IS42S32200E-81
+Added Pin To Net: NetName=GND Pin=IS42S32200E-84
+Added Pin To Net: NetName=GND Pin=IS42S32200E-86
+Added Class: Name=U_sdram

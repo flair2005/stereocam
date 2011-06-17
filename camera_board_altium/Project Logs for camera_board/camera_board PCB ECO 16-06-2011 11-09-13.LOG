@@ -1,0 +1,134 @@
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-1
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-3
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-6
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-9
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-12
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-15
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-29
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-32
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-35
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-38
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-41
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-43
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-44
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-46
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-49
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-52
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-55
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-58
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-72
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-75
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-78
+Removed Pin From Net: NetName=3V3 Pin=IS42S32200E-81
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-84
+Removed Pin From Net: NetName=GND Pin=IS42S32200E-86
+Removed Pin From Net: NetName=C2D2 Pin=U1-54
+Removed Pin From Net: NetName=C2D1 Pin=U1-57
+Removed Pin From Net: NetName=C2D0 Pin=U1-58
+Removed Member From Class: ClassName=U_sdram Member=IS42S32200E
+Removed Member From Class: ClassName=U_sdram Member=RP1
+Removed Member From Class: ClassName=U_sdram Member=RP2
+Removed Member From Class: ClassName=U_sdram Member=RP3
+Removed Member From Class: ClassName=U_sdram Member=RP4
+Added Component: Designator=U?(TSSOP50P1175-86M)
+Added Pin To Net: NetName=C2D2 Pin=U1-57
+Added Pin To Net: NetName=C2D1 Pin=U1-58
+Added Pin To Net: NetName=C2D0 Pin=U1-71
+Added Pin To Net: NetName=3V3 Pin=U?-1
+Added Pin To Net: NetName=3V3 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=3V3 Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=3V3 Pin=U?-15
+Added Pin To Net: NetName=3V3 Pin=U?-29
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Pin To Net: NetName=3V3 Pin=U?-35
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Pin To Net: NetName=3V3 Pin=U?-41
+Added Pin To Net: NetName=3V3 Pin=U?-43
+Added Pin To Net: NetName=GND Pin=U?-44
+Added Pin To Net: NetName=GND Pin=U?-46
+Added Pin To Net: NetName=3V3 Pin=U?-49
+Added Pin To Net: NetName=GND Pin=U?-52
+Added Pin To Net: NetName=3V3 Pin=U?-55
+Added Pin To Net: NetName=GND Pin=U?-58
+Added Pin To Net: NetName=GND Pin=U?-72
+Added Pin To Net: NetName=3V3 Pin=U?-75
+Added Pin To Net: NetName=GND Pin=U?-78
+Added Pin To Net: NetName=3V3 Pin=U?-81
+Added Pin To Net: NetName=GND Pin=U?-84
+Added Pin To Net: NetName=GND Pin=U?-86
+Added Pin To Net: NetName=D0 Pin=U?-2
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=U?-4
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=U?-5
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=U?-7
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=U?-8
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=U?-10
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=U?-11
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=U?-13
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=U?-74
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=U?-76
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=U?-77
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=U?-79
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=U?-80
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=U?-82
+Added Net: Name=D13
+Added Pin To Net: NetName=D14 Pin=U?-83
+Added Net: Name=D14
+Added Pin To Net: NetName=D15 Pin=U?-85
+Added Net: Name=D15
+Added Pin To Net: NetName=D16 Pin=U?-31
+Added Net: Name=D16
+Added Pin To Net: NetName=D17 Pin=U?-33
+Added Net: Name=D17
+Added Pin To Net: NetName=D18 Pin=U?-34
+Added Net: Name=D18
+Added Pin To Net: NetName=D19 Pin=U?-36
+Added Net: Name=D19
+Added Pin To Net: NetName=D20 Pin=U?-37
+Added Net: Name=D20
+Added Pin To Net: NetName=D21 Pin=U?-39
+Added Net: Name=D21
+Added Pin To Net: NetName=D22 Pin=U?-40
+Added Net: Name=D22
+Added Pin To Net: NetName=D23 Pin=U?-42
+Added Net: Name=D23
+Added Pin To Net: NetName=D24 Pin=U?-45
+Added Net: Name=D24
+Added Pin To Net: NetName=D25 Pin=U?-47
+Added Net: Name=D25
+Added Pin To Net: NetName=D26 Pin=U?-48
+Added Net: Name=D26
+Added Pin To Net: NetName=D27 Pin=U?-50
+Added Net: Name=D27
+Added Pin To Net: NetName=D28 Pin=U?-51
+Added Net: Name=D28
+Added Pin To Net: NetName=D29 Pin=U?-53
+Added Net: Name=D29
+Added Pin To Net: NetName=D30 Pin=U?-54
+Added Net: Name=D30
+Added Pin To Net: NetName=D31 Pin=U?-56
+Added Net: Name=D31
+Added Pin To Net: NetName=DQM0 Pin=U?-16
+Added Net: Name=DQM0
+Added Pin To Net: NetName=DQM1 Pin=U?-71
+Added Net: Name=DQM1
+Added Pin To Net: NetName=DQM2 Pin=U?-28
+Added Net: Name=DQM2
+Added Pin To Net: NetName=DQM3 Pin=U?-59
+Added Net: Name=DQM3
+Added Class: Name=D[0..31]
+Added Member To Class: ClassName=U_sdram Member=Component U? IS42S32200E

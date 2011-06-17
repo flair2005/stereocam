@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=C2HREF Pin=U1-69
+Removed Pin From Net: NetName=C2SYNC Pin=U1-71
+Removed Pin From Net: NetName=C2PCLK Pin=U1-72
+Added Pin To Net: NetName=C2PCLK Pin=U1-69
+Added Pin To Net: NetName=C2HREF Pin=U1-71
+Added Pin To Net: NetName=C2SYNC Pin=U1-72

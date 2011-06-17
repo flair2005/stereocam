@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CLK Pin=RP3-1
+Removed Pin From Net: NetName=CKE Pin=RP3-2
+Added Pin To Net: NetName=A6 Pin=RP3-1
+Added Pin To Net: NetName=A7 Pin=RP3-2
+Added Pin To Net: NetName=A8 Pin=RP3-3
+Added Pin To Net: NetName=A9 Pin=RP3-4
+Added Pin To Net: NetName=DQM1 Pin=RP3-6
+Added Pin To Net: NetName=CLK Pin=RP3-7
+Added Pin To Net: NetName=CKE Pin=RP3-8
+Added Pin To Net: NetName=NetRP2_9 Pin=RP2-9
+Added Pin To Net: NetName=NetRP2_9 Pin=U1-116
+Added Net: Name=NetRP2_9

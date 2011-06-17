@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=C1D0 Pin=U1-3
+Added Pin To Net: NetName=C1D1 Pin=U1-4
+Added Pin To Net: NetName=C1D2 Pin=U1-5
+Added Pin To Net: NetName=C1D3 Pin=U1-8
+Added Pin To Net: NetName=C1SYNC Pin=U1-9
+Added Pin To Net: NetName=C1PCLK Pin=U1-11
+Added Pin To Net: NetName=C1D4 Pin=U1-12
+Added Pin To Net: NetName=C1D5 Pin=U1-15
+Added Pin To Net: NetName=C1D6 Pin=U1-16
+Added Pin To Net: NetName=C1D7 Pin=U1-18
+Added Pin To Net: NetName=C1SCL Pin=U1-19
+Added Pin To Net: NetName=C1SDA Pin=U1-22
+Added Pin To Net: NetName=C1FSIN Pin=U1-23
+Added Pin To Net: NetName=C1HREF Pin=U1-24
+Added Pin To Net: NetName=C1XCLK Pin=U1-25
+Added Pin To Net: NetName=C1PWDN Pin=U1-28

@@ -1,0 +1,339 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=C3-1
+Removed Pin From Net: NetName=1V2 Pin=C5-1
+Removed Pin From Net: NetName=1V8 Pin=C6-1
+Removed Pin From Net: NetName=5V Pin=C7-1
+Removed Pin From Net: NetName=5V Pin=C9-1
+Removed Pin From Net: NetName=2V5 Pin=C12-1
+Removed Pin From Net: NetName=2V5 Pin=C14-1
+Removed Pin From Net: NetName=2V5 Pin=C15-1
+Removed Pin From Net: NetName=3V3 Pin=C16-1
+Removed Pin From Net: NetName=1V2 Pin=C18-1
+Removed Pin From Net: NetName=3V3 Pin=C19-1
+Removed Pin From Net: NetName=3V3 Pin=C20-1
+Removed Pin From Net: NetName=3V3 Pin=C21-1
+Removed Pin From Net: NetName=1V2 Pin=C22-1
+Removed Pin From Net: NetName=3V3 Pin=C23-1
+Removed Pin From Net: NetName=2V5 Pin=C25-1
+Removed Pin From Net: NetName=3V3 Pin=C26-1
+Removed Pin From Net: NetName=3V3 Pin=C27-1
+Removed Pin From Net: NetName=2V5 Pin=C29-1
+Removed Pin From Net: NetName=2V5 Pin=C30-1
+Removed Pin From Net: NetName=3V3 Pin=C31-1
+Removed Pin From Net: NetName=3V3 Pin=C32-1
+Removed Pin From Net: NetName=3V3 Pin=C33-1
+Removed Pin From Net: NetName=3V3 Pin=C34-1
+Removed Pin From Net: NetName=1V2 Pin=C35-1
+Removed Pin From Net: NetName=3V3 Pin=C36-1
+Removed Pin From Net: NetName=2V5 Pin=C37-1
+Removed Pin From Net: NetName=2V5 Pin=C38-1
+Removed Pin From Net: NetName=1V2 Pin=C39-1
+Removed Pin From Net: NetName=3V3 Pin=C40-1
+Removed Pin From Net: NetName=NetL3_1 Pin=L1-1
+Removed Pin From Net: NetName=1V2 Pin=L1-2
+Removed Pin From Net: NetName=NetL4_1 Pin=L2-1
+Removed Pin From Net: NetName=1V8 Pin=L2-2
+Removed Pin From Net: NetName=NetL1_1 Pin=L3-1
+Removed Pin From Net: NetName=3V3 Pin=L3-2
+Removed Pin From Net: NetName=NetL2_1 Pin=L4-1
+Removed Pin From Net: NetName=2V5 Pin=L4-2
+Removed Pin From Net: NetName=5V Pin=R1-1
+Removed Pin From Net: NetName=5V Pin=R2-1
+Change Component DesignItemId : Designator=C39 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-2U2-6V3-X5R-PAN
+Change Component DesignItemId : Designator=C15 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C24 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C29 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C30 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C31 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C32 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C34 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C36 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C37 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C38 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=C40 Old DesignItemId=0603C-100NF-50V-X7R-TDK New DesignItemId=0805C-10UF-16V-X5R-TDK
+Change Component DesignItemId : Designator=R1 Old DesignItemId=0603R-10R New DesignItemId=0603R-4K7
+Change Component DesignItemId : Designator=R2 Old DesignItemId=0603R-10R New DesignItemId=0603R-4K7
+Change Component DesignItemId : Designator=C2 Old DesignItemId=0805C-2U2-6V3-X5R-PAN New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C4 Old DesignItemId=0805C-2U2-6V3-X5R-PAN New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C8 Old DesignItemId=0805C-2U2-6V3-X5R-PAN New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C10 Old DesignItemId=0805C-2U2-6V3-X5R-PAN New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C1 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C3 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C5 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C6 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C9 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C11 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C12 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C14 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C16 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0603C-100NF-50V-X7R-TDK
+Change Component DesignItemId : Designator=C33 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0805C-2U2-6V3-X5R-PAN
+Change Component DesignItemId : Designator=C35 Old DesignItemId=0805C-10UF-16V-X5R-TDK New DesignItemId=0805C-2U2-6V3-X5R-PAN
+Change Component DesignItemId : Designator=K2 Old DesignItemId=IDC16 New DesignItemId=IDC20
+Change Component DesignItemId : Designator=K3 Old DesignItemId=IDC20 New DesignItemId=HEADER-1X6
+Change Component Footprint: Designator=C15 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C24 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C29 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C30 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C31 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C32 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C34 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C36 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C37 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C38 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C39 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=C40 Old Footprint=0603C-GENERIC New Footprint=0805C-GENERIC
+Change Component Footprint: Designator=R1 Old Footprint=0603R-10 New Footprint=0603R-4K7
+Change Component Footprint: Designator=R2 Old Footprint=0603R-10 New Footprint=0603R-4K7
+Change Component Footprint: Designator=C1 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C2 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C3 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C4 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C5 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C6 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C8 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C9 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C10 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C11 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C12 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C14 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=C16 Old Footprint=0805C-GENERIC New Footprint=0603C-GENERIC
+Change Component Footprint: Designator=K2 Old Footprint=IDC16-B New Footprint=IDC20-B
+Change Component Footprint: Designator=K3 Old Footprint=IDC20-B New Footprint=HEADER-1X6
+Change Component Comment : Designator=C2 Old Comment=2u2 New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=2u2 New Comment=100nF
+Change Component Comment : Designator=C8 Old Comment=2u2 New Comment=100nF
+Change Component Comment : Designator=C10 Old Comment=2u2 New Comment=100nF
+Change Component Comment : Designator=R1 Old Comment=10R New Comment=4K7
+Change Component Comment : Designator=R2 Old Comment=10R New Comment=4K7
+Change Component Comment : Designator=C33 Old Comment=10uF New Comment=2u2
+Change Component Comment : Designator=C35 Old Comment=10uF New Comment=2u2
+Change Component Comment : Designator=C1 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C3 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C9 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C11 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C12 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C14 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C16 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C39 Old Comment=100nF New Comment=2u2
+Change Component Comment : Designator=C15 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C24 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C29 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C30 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C31 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C32 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C34 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C36 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C37 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C38 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C40 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=K2 Old Comment=IDC16 New Comment=IDC20
+Change Component Comment : Designator=K3 Old Comment=IDC20 New Comment=HEADER-1X6
+Change Component Designator: OldDesignator=M1 NewDesignator=M2
+Change Component Designator: OldDesignator=M2 NewDesignator=M4
+Change Component Designator: OldDesignator=M3 NewDesignator=M1
+Change Component Designator: OldDesignator=M4 NewDesignator=M3
+Added Component: Designator=C41(0805C-GENERIC)
+Added Component: Designator=C42(0603C-GENERIC)
+Added Component: Designator=C43(0603C-GENERIC)
+Added Component: Designator=C44(0603C-GENERIC)
+Added Component: Designator=C45(0603C-GENERIC)
+Added Component: Designator=K4(IDC16-B)
+Added Component: Designator=R5(0603R-10)
+Added Component: Designator=R6(0603R-10)
+Added Component: Designator=R7(0603R-100)
+Added Component: Designator=R8(0603R-100)
+Added Component: Designator=R9(0603R-100)
+Added Component: Designator=R10(0603R-4K7)
+Added Component: Designator=R11(0603R-330)
+Added Component: Designator=R12(0603R-10)
+Added Component: Designator=R13(0603R-10)
+Added Component: Designator=U2(QFN50P300X300-16V6N)
+Added Component: Designator=U3(QFN50P300X300-16V6N)
+Added Component: Designator=U4(QFN50P300X300-16V6N)
+Added Component: Designator=U5(QFN50P300X300-16V6N)
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C10-1
+Added Pin To Net: NetName=3V3 Pin=C12-1
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Added Pin To Net: NetName=2V5 Pin=C16-1
+Added Pin To Net: NetName=2V5 Pin=C18-1
+Added Pin To Net: NetName=2V5 Pin=C19-1
+Added Pin To Net: NetName=2V5 Pin=C20-1
+Added Pin To Net: NetName=2V5 Pin=C21-1
+Added Pin To Net: NetName=2V5 Pin=C22-1
+Added Pin To Net: NetName=2V5 Pin=C23-1
+Added Pin To Net: NetName=1V2 Pin=C25-1
+Added Pin To Net: NetName=1V2 Pin=C26-1
+Added Pin To Net: NetName=1V2 Pin=C27-1
+Added Pin To Net: NetName=1V2 Pin=C29-1
+Added Pin To Net: NetName=3V3 Pin=C30-1
+Added Pin To Net: NetName=2V5 Pin=C31-1
+Added Pin To Net: NetName=5V Pin=C32-1
+Added Pin To Net: NetName=5V Pin=C34-1
+Added Pin To Net: NetName=1V2 Pin=C36-1
+Added Pin To Net: NetName=1V8 Pin=C37-1
+Added Pin To Net: NetName=5V Pin=C38-1
+Added Pin To Net: NetName=5V Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=3V3 Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=2V5 Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=3V3 Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K3-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=2V5 Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=1V2 Pin=L3-2
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=1V8 Pin=L4-2
+Added Pin To Net: NetName=2V5 Pin=R1-1
+Added Pin To Net: NetName=2V5 Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R5-1
+Added Pin To Net: NetName=5V Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=3V3 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=NetL1_1 Pin=U2-14
+Added Pin To Net: NetName=NetL1_1 Pin=U2-15
+Added Pin To Net: NetName=NetL1_1 Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=5V Pin=U3-1
+Added Pin To Net: NetName=5V Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=2V5 Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=NetL2_1 Pin=U3-14
+Added Pin To Net: NetName=NetL2_1 Pin=U3-15
+Added Pin To Net: NetName=NetL2_1 Pin=U3-16
+Added Pin To Net: NetName=GND Pin=U3-17
+Added Pin To Net: NetName=5V Pin=U4-1
+Added Pin To Net: NetName=5V Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=1V2 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=NetL3_1 Pin=U4-14
+Added Pin To Net: NetName=NetL3_1 Pin=U4-15
+Added Pin To Net: NetName=NetL3_1 Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U4-17
+Added Pin To Net: NetName=5V Pin=U5-1
+Added Pin To Net: NetName=5V Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=1V8 Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=NetL4_1 Pin=U5-14
+Added Pin To Net: NetName=NetL4_1 Pin=U5-15
+Added Pin To Net: NetName=NetL4_1 Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U5-17
+Added Pin To Net: NetName=+3V3 Pin=C8-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=DONE Pin=R2-2
+Added Pin To Net: NetName=DONE Pin=R11-1
+Added Pin To Net: NetName=DONE Pin=U1-104
+Added Net: Name=DONE
+Added Pin To Net: NetName=MAIN_OSC Pin=U1-80
+Added Net: Name=MAIN_OSC
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=R3-2
+Added Pin To Net: NetName=NetC33_1 Pin=U2-4
+Added Pin To Net: NetName=NetC33_1 Pin=U2-5
+Added Pin To Net: NetName=NetC33_1 Pin=U2-6
+Added Pin To Net: NetName=NetC33_1 Pin=U2-7
+Added Pin To Net: NetName=NetC33_1 Pin=U2-8
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=R4-2
+Added Pin To Net: NetName=NetC35_1 Pin=U3-4
+Added Pin To Net: NetName=NetC35_1 Pin=U3-6
+Added Pin To Net: NetName=NetC35_1 Pin=U3-8
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=R5-2
+Added Pin To Net: NetName=NetC39_1 Pin=U4-4
+Added Pin To Net: NetName=NetC39_1 Pin=U4-5
+Added Pin To Net: NetName=NetC39_1 Pin=U4-7
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=R6-2
+Added Pin To Net: NetName=NetC41_1 Pin=U5-4
+Added Pin To Net: NetName=NetC41_1 Pin=U5-5
+Added Pin To Net: NetName=NetC41_1 Pin=U5-8
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=R12-1
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetD1_1 Pin=R11-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetK3_3 Pin=K3-3
+Added Pin To Net: NetName=NetK3_3 Pin=R7-2
+Added Net: Name=NetK3_3
+Added Pin To Net: NetName=NetK3_5 Pin=K3-5
+Added Pin To Net: NetName=NetK3_5 Pin=R8-2
+Added Net: Name=NetK3_5
+Added Pin To Net: NetName=NetK3_6 Pin=K3-6
+Added Pin To Net: NetName=NetK3_6 Pin=R9-2
+Added Net: Name=NetK3_6
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=PF_CLK Pin=C45-1
+Added Pin To Net: NetName=PF_CLK Pin=R13-1
+Added Pin To Net: NetName=PF_CLK Pin=U1-103
+Added Net: Name=PF_CLK
+Added Pin To Net: NetName=PF_DIN Pin=R12-2
+Added Pin To Net: NetName=PF_DIN Pin=U1-87
+Added Net: Name=PF_DIN
+Added Pin To Net: NetName=PF_INIT Pin=R10-2
+Added Pin To Net: NetName=PF_INIT Pin=U1-56
+Added Net: Name=PF_INIT
+Added Pin To Net: NetName=PROG Pin=R1-2
+Added Pin To Net: NetName=PROG Pin=U1-1
+Added Net: Name=PROG
+Added Pin To Net: NetName=TCK Pin=R7-1
+Added Pin To Net: NetName=TCK Pin=U1-158
+Added Net: Name=TCK
+Added Pin To Net: NetName=TDI Pin=R8-1
+Added Pin To Net: NetName=TDI Pin=U1-207
+Added Net: Name=TDI
+Added Pin To Net: NetName=TDO_FLASH Pin=K3-4
+Added Net: Name=TDO_FLASH
+Added Pin To Net: NetName=TDO_FPGA Pin=U1-157
+Added Net: Name=TDO_FPGA
+Added Pin To Net: NetName=TMS Pin=R9-1
+Added Pin To Net: NetName=TMS Pin=U1-155
+Added Net: Name=TMS
+Added Class: Name=U_camera
+Added Class: Name=U_config
+Added Class: Name=U_fpga
+Added Class: Name=U_panda
+Added Class: Name=U_power

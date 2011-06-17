@@ -1,0 +1,104 @@
+Added Component: Designator=RP1(1206-ARRAY-8-GENERIC)
+Added Component: Designator=RP2(1206-ARRAY-8-GENERIC)
+Added Component: Designator=RP3(1206-ARRAY-8-GENERIC)
+Added Component: Designator=RP4(1206-ARRAY-8-GENERIC)
+Added Pin To Net: NetName=NetIS42S32200E_2 Pin=IS42S32200E-2
+Added Pin To Net: NetName=NetIS42S32200E_2 Pin=RP1-8
+Added Net: Name=NetIS42S32200E_2
+Added Pin To Net: NetName=NetIS42S32200E_4 Pin=IS42S32200E-4
+Added Pin To Net: NetName=NetIS42S32200E_4 Pin=RP1-7
+Added Net: Name=NetIS42S32200E_4
+Added Pin To Net: NetName=NetIS42S32200E_5 Pin=IS42S32200E-5
+Added Pin To Net: NetName=NetIS42S32200E_5 Pin=RP1-6
+Added Net: Name=NetIS42S32200E_5
+Added Pin To Net: NetName=NetIS42S32200E_7 Pin=IS42S32200E-7
+Added Pin To Net: NetName=NetIS42S32200E_7 Pin=RP1-5
+Added Net: Name=NetIS42S32200E_7
+Added Pin To Net: NetName=NetIS42S32200E_8 Pin=IS42S32200E-8
+Added Pin To Net: NetName=NetIS42S32200E_8 Pin=RP1-4
+Added Net: Name=NetIS42S32200E_8
+Added Pin To Net: NetName=NetIS42S32200E_10 Pin=IS42S32200E-10
+Added Pin To Net: NetName=NetIS42S32200E_10 Pin=RP1-3
+Added Net: Name=NetIS42S32200E_10
+Added Pin To Net: NetName=NetIS42S32200E_11 Pin=IS42S32200E-11
+Added Pin To Net: NetName=NetIS42S32200E_11 Pin=RP1-2
+Added Net: Name=NetIS42S32200E_11
+Added Pin To Net: NetName=NetIS42S32200E_13 Pin=IS42S32200E-13
+Added Pin To Net: NetName=NetIS42S32200E_13 Pin=RP1-1
+Added Net: Name=NetIS42S32200E_13
+Added Pin To Net: NetName=NetIS42S32200E_31 Pin=IS42S32200E-31
+Added Pin To Net: NetName=NetIS42S32200E_31 Pin=RP3-8
+Added Net: Name=NetIS42S32200E_31
+Added Pin To Net: NetName=NetIS42S32200E_33 Pin=IS42S32200E-33
+Added Pin To Net: NetName=NetIS42S32200E_33 Pin=RP3-7
+Added Net: Name=NetIS42S32200E_33
+Added Pin To Net: NetName=NetIS42S32200E_34 Pin=IS42S32200E-34
+Added Pin To Net: NetName=NetIS42S32200E_34 Pin=RP3-6
+Added Net: Name=NetIS42S32200E_34
+Added Pin To Net: NetName=NetIS42S32200E_36 Pin=IS42S32200E-36
+Added Pin To Net: NetName=NetIS42S32200E_36 Pin=RP3-5
+Added Net: Name=NetIS42S32200E_36
+Added Pin To Net: NetName=NetIS42S32200E_37 Pin=IS42S32200E-37
+Added Pin To Net: NetName=NetIS42S32200E_37 Pin=RP3-4
+Added Net: Name=NetIS42S32200E_37
+Added Pin To Net: NetName=NetIS42S32200E_39 Pin=IS42S32200E-39
+Added Pin To Net: NetName=NetIS42S32200E_39 Pin=RP3-3
+Added Net: Name=NetIS42S32200E_39
+Added Pin To Net: NetName=NetIS42S32200E_40 Pin=IS42S32200E-40
+Added Pin To Net: NetName=NetIS42S32200E_40 Pin=RP3-2
+Added Net: Name=NetIS42S32200E_40
+Added Pin To Net: NetName=NetIS42S32200E_42 Pin=IS42S32200E-42
+Added Pin To Net: NetName=NetIS42S32200E_42 Pin=RP3-1
+Added Net: Name=NetIS42S32200E_42
+Added Pin To Net: NetName=NetIS42S32200E_45 Pin=IS42S32200E-45
+Added Pin To Net: NetName=NetIS42S32200E_45 Pin=RP4-8
+Added Net: Name=NetIS42S32200E_45
+Added Pin To Net: NetName=NetIS42S32200E_47 Pin=IS42S32200E-47
+Added Pin To Net: NetName=NetIS42S32200E_47 Pin=RP4-7
+Added Net: Name=NetIS42S32200E_47
+Added Pin To Net: NetName=NetIS42S32200E_48 Pin=IS42S32200E-48
+Added Pin To Net: NetName=NetIS42S32200E_48 Pin=RP4-6
+Added Net: Name=NetIS42S32200E_48
+Added Pin To Net: NetName=NetIS42S32200E_50 Pin=IS42S32200E-50
+Added Pin To Net: NetName=NetIS42S32200E_50 Pin=RP4-5
+Added Net: Name=NetIS42S32200E_50
+Added Pin To Net: NetName=NetIS42S32200E_51 Pin=IS42S32200E-51
+Added Pin To Net: NetName=NetIS42S32200E_51 Pin=RP4-4
+Added Net: Name=NetIS42S32200E_51
+Added Pin To Net: NetName=NetIS42S32200E_53 Pin=IS42S32200E-53
+Added Pin To Net: NetName=NetIS42S32200E_53 Pin=RP4-3
+Added Net: Name=NetIS42S32200E_53
+Added Pin To Net: NetName=NetIS42S32200E_54 Pin=IS42S32200E-54
+Added Pin To Net: NetName=NetIS42S32200E_54 Pin=RP4-2
+Added Net: Name=NetIS42S32200E_54
+Added Pin To Net: NetName=NetIS42S32200E_56 Pin=IS42S32200E-56
+Added Pin To Net: NetName=NetIS42S32200E_56 Pin=RP4-1
+Added Net: Name=NetIS42S32200E_56
+Added Pin To Net: NetName=NetIS42S32200E_74 Pin=IS42S32200E-74
+Added Pin To Net: NetName=NetIS42S32200E_74 Pin=RP2-8
+Added Net: Name=NetIS42S32200E_74
+Added Pin To Net: NetName=NetIS42S32200E_76 Pin=IS42S32200E-76
+Added Pin To Net: NetName=NetIS42S32200E_76 Pin=RP2-7
+Added Net: Name=NetIS42S32200E_76
+Added Pin To Net: NetName=NetIS42S32200E_77 Pin=IS42S32200E-77
+Added Pin To Net: NetName=NetIS42S32200E_77 Pin=RP2-6
+Added Net: Name=NetIS42S32200E_77
+Added Pin To Net: NetName=NetIS42S32200E_79 Pin=IS42S32200E-79
+Added Pin To Net: NetName=NetIS42S32200E_79 Pin=RP2-5
+Added Net: Name=NetIS42S32200E_79
+Added Pin To Net: NetName=NetIS42S32200E_80 Pin=IS42S32200E-80
+Added Pin To Net: NetName=NetIS42S32200E_80 Pin=RP2-4
+Added Net: Name=NetIS42S32200E_80
+Added Pin To Net: NetName=NetIS42S32200E_82 Pin=IS42S32200E-82
+Added Pin To Net: NetName=NetIS42S32200E_82 Pin=RP2-3
+Added Net: Name=NetIS42S32200E_82
+Added Pin To Net: NetName=NetIS42S32200E_83 Pin=IS42S32200E-83
+Added Pin To Net: NetName=NetIS42S32200E_83 Pin=RP2-2
+Added Net: Name=NetIS42S32200E_83
+Added Pin To Net: NetName=NetIS42S32200E_85 Pin=IS42S32200E-85
+Added Pin To Net: NetName=NetIS42S32200E_85 Pin=RP2-1
+Added Net: Name=NetIS42S32200E_85
+Added Member To Class: ClassName=U_sdram Member=Component RP1 ARRAY8T-GENERIC
+Added Member To Class: ClassName=U_sdram Member=Component RP2 ARRAY8T-GENERIC
+Added Member To Class: ClassName=U_sdram Member=Component RP3 ARRAY8T-GENERIC
+Added Member To Class: ClassName=U_sdram Member=Component RP4 ARRAY8T-GENERIC

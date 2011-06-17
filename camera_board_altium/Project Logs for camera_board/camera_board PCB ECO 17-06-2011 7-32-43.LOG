@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=GND Pin=K4-1
+Added Pin To Net: NetName=GND Pin=K4-2
+Added Pin To Net: NetName=GND Pin=K4-15
+Added Pin To Net: NetName=GND Pin=K4-16
+Added Pin To Net: NetName=HSWAP Pin=U1-206
+Added Pin To Net: NetName=CLK_1V8 Pin=K4-12
+Added Net: Name=CLK_1V8
+Added Pin To Net: NetName=CMD_1V8 Pin=K4-11
+Added Net: Name=CMD_1V8
+Added Pin To Net: NetName=DAT_1V8_0 Pin=K4-3
+Added Net: Name=DAT_1V8_0
+Added Pin To Net: NetName=DAT_1V8_1 Pin=K4-4
+Added Net: Name=DAT_1V8_1
+Added Pin To Net: NetName=DAT_1V8_2 Pin=K4-5
+Added Net: Name=DAT_1V8_2
+Added Pin To Net: NetName=DAT_1V8_3 Pin=K4-6
+Added Net: Name=DAT_1V8_3
+Added Pin To Net: NetName=DAT_1V8_4 Pin=K4-7
+Added Net: Name=DAT_1V8_4
+Added Pin To Net: NetName=DAT_1V8_5 Pin=K4-8
+Added Net: Name=DAT_1V8_5
+Added Pin To Net: NetName=DAT_1V8_6 Pin=K4-9
+Added Net: Name=DAT_1V8_6
+Added Pin To Net: NetName=DAT_1V8_7 Pin=K4-10
+Added Net: Name=DAT_1V8_7
+Added Pin To Net: NetName=GPIO_1V8_A Pin=K4-13
+Added Net: Name=GPIO_1V8_A
+Added Pin To Net: NetName=GPIO_1V8_B Pin=K4-14
+Added Net: Name=GPIO_1V8_B
