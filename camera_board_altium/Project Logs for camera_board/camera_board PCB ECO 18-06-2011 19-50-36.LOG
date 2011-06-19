@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=D1-K
+Removed Pin From Net: NetName=GND Pin=D2-K
+Removed Pin From Net: NetName=GND Pin=D5-K
+Removed Pin From Net: NetName=GND Pin=D6-K
+Removed Member From Class: ClassName=U_power Member=D5
+Removed Member From Class: ClassName=U_config Member=D6
+Change Component DesignItemId : Designator=D1 Old DesignItemId=LED-RED-3MM New DesignItemId=SMD_LED_0805
+Change Component DesignItemId : Designator=D2 Old DesignItemId=LED-RED-3MM New DesignItemId=SMD_LED_0805
+Change Component Comment : Designator=D1 Old Comment=LED-RED-3MM New Comment=SMD_LED_0805
+Change Component Comment : Designator=D2 Old Comment=LED-RED-3MM New Comment=SMD_LED_0805
+Change Component Description : Designator=D1 Old Description=LED-RED-3MM New Description=
+Change Component Description : Designator=D2 Old Description=LED-RED-3MM New Description=
+Change Component Library : Designator=D1 Old Library=vh_Altium Library.IntLib New Library=camera_board.SchLib
+Change Component Library : Designator=D2 Old Library=vh_Altium Library.IntLib New Library=camera_board.SchLib
+Added Component: Designator=D3(CD2012-0805)
+Added Component: Designator=D4(CD2012-0805)
+Added Pin To Net: NetName=NetD3_A Pin=R25-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_A Pin=R26-2
+Added Net: Name=NetD4_A
+Added Member To Class: ClassName=U_power Member=Component D3 SMD_LED_0805
+Added Member To Class: ClassName=U_config Member=Component D4 SMD_LED_0805

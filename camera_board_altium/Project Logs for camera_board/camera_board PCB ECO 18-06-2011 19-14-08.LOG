@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U? Old Footprint=SOIC127P600_HS-8AM New Footprint=SOIC127P600-8BM
+Change Component Designator: OldDesignator=C? NewDesignator=C60
+Change Component Designator: OldDesignator=U? NewDesignator=U11

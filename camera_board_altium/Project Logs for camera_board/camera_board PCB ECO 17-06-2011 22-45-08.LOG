@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=K4-1
+Removed Pin From Net: NetName=GND Pin=K4-2
+Removed Pin From Net: NetName=DAT_1V8_0 Pin=K4-3
+Removed Pin From Net: NetName=DAT_1V8_1 Pin=K4-4
+Removed Pin From Net: NetName=DAT_1V8_2 Pin=K4-5
+Removed Pin From Net: NetName=DAT_1V8_3 Pin=K4-6
+Removed Pin From Net: NetName=DAT_1V8_4 Pin=K4-7
+Removed Pin From Net: NetName=DAT_1V8_5 Pin=K4-8
+Removed Pin From Net: NetName=DAT_1V8_6 Pin=K4-9
+Removed Pin From Net: NetName=DAT_1V8_7 Pin=K4-10
+Removed Pin From Net: NetName=CMD_1V8 Pin=K4-11
+Removed Pin From Net: NetName=CLK_1V8 Pin=K4-12
+Removed Pin From Net: NetName=GPIO_1V8_A Pin=K4-13
+Removed Pin From Net: NetName=GPIO_1V8_B Pin=K4-14
+Removed Pin From Net: NetName=GND Pin=K4-15
+Removed Pin From Net: NetName=GND Pin=K4-16
+Removed Pin From Net: NetName=5V Pin=K6-1
+Removed Pin From Net: NetName=GND Pin=K6-2
+Removed Pin From Net: NetName=5V Pin=K6-3
+Removed Pin From Net: NetName=GND Pin=K6-4
+Removed Member From Class: ClassName=U_power Member=K6
+Change Component DesignItemId : Designator=K4 Old DesignItemId=IDC16 New DesignItemId=IDC20
+Change Component Footprint: Designator=K4 Old Footprint=IDC16-B New Footprint=IDC20-B
+Change Component Comment : Designator=K4 Old Comment=IDC16 New Comment=IDC20
+Added Pin To Net: NetName=5V Pin=K4-1
+Added Pin To Net: NetName=5V Pin=K4-2
+Added Pin To Net: NetName=5V Pin=K4-3
+Added Pin To Net: NetName=5V Pin=K4-4
+Added Pin To Net: NetName=GND Pin=K4-5
+Added Pin To Net: NetName=GND Pin=K4-6
+Added Pin To Net: NetName=DAT_1V8_0 Pin=K4-7
+Added Pin To Net: NetName=DAT_1V8_1 Pin=K4-8
+Added Pin To Net: NetName=DAT_1V8_2 Pin=K4-9
+Added Pin To Net: NetName=DAT_1V8_3 Pin=K4-10
+Added Pin To Net: NetName=DAT_1V8_4 Pin=K4-11
+Added Pin To Net: NetName=DAT_1V8_5 Pin=K4-12
+Added Pin To Net: NetName=DAT_1V8_6 Pin=K4-13
+Added Pin To Net: NetName=DAT_1V8_7 Pin=K4-14
+Added Pin To Net: NetName=CMD_1V8 Pin=K4-15
+Added Pin To Net: NetName=CLK_1V8 Pin=K4-16
+Added Pin To Net: NetName=GPIO_1V8_A Pin=K4-17
+Added Pin To Net: NetName=GPIO_1V8_B Pin=K4-18
+Added Pin To Net: NetName=GND Pin=K4-19
+Added Pin To Net: NetName=GND Pin=K4-20
