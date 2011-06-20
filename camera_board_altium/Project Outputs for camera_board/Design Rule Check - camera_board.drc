@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\team_graviton\camera_board\camera_board.PcbDoc
-Date     : 17/06/2011
-Time     : 9:07:07
+Date     : 20/06/2011
+Time     : 15:07:46
 
 Processing Rule : Matched Net Lengths(Tolerance=12.7mm) (InNetClass('D[0..31]'))
    Violation between Matched Net Lengths: Net D0
@@ -74,8 +74,6 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
                      Pad U6-3(114.85mm,38.375mm)  Top Layer
    Violation between Pad U6-1(114.85mm,37.075mm)  Top Layer and 
                      Pad U6-2(114.85mm,37.725mm)  Top Layer
-   Violation between Pad D2-A(53mm,46mm)  Multi-Layer and 
-                     Pad R22-2(54.012mm,44.988mm)  Top Layer
    Violation between Pad U10-12(44.487mm,45.73mm)  Top Layer and 
                      Pad U10-11(44.947mm,46.19mm)  Top Layer
    Violation between Pad U10-13(44.028mm,45.27mm)  Top Layer and 
@@ -148,8 +146,6 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
                      Pad U9-3(39.972mm,32.73mm)  Top Layer
    Violation between Pad U9-1(39.053mm,31.81mm)  Top Layer and 
                      Pad U9-2(39.513mm,32.27mm)  Top Layer
-   Violation between Pad D5-A(44mm,3mm)  Multi-Layer and 
-                     Pad R25-2(42.397mm,3mm)  Top Layer
    Violation between Pad U3-16(12.25mm,22.5mm)  Bottom Layer and 
                      Pad U3-1(11.5mm,23.25mm)  Bottom Layer
    Violation between Pad U3-17(13mm,24mm)  Bottom Layer and 
@@ -310,7 +306,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
                      Pad U4-15(25.25mm,22.5mm)  Bottom Layer
    Violation between Pad U4-17(25.5mm,24mm)  Bottom Layer and 
                      Pad U4-16(24.75mm,22.5mm)  Bottom Layer
-Rule Violations :136
+Rule Violations :134
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -318,8 +314,8 @@ Rule Violations :0
 Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
    Violation between Hole Size Constraint (3.1mm > 2.54mm) : Pad M3-1(120mm,45mm)  Multi-Layer
    Violation between Hole Size Constraint (3.1mm > 2.54mm) : Pad M4-1(5mm,45mm)  Multi-Layer
-   Violation between Hole Size Constraint (3.1mm > 2.54mm) : Pad M2-1(29mm,14mm)  Multi-Layer
-   Violation between Hole Size Constraint (3.1mm > 2.54mm) : Pad M1-1(119mm,14mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.1mm > 2.54mm) : Pad M1-1(119mm,11.08mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.1mm > 2.54mm) : Pad M2-1(29mm,11.08mm)  Multi-Layer
 Rule Violations :4
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
@@ -332,5 +328,5 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 
-Violations Detected : 156
-Time Elapsed        : 00:00:03
+Violations Detected : 154
+Time Elapsed        : 00:00:02

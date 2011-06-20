@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: camera_board.GBR   19/06/2011  16:29:02
+Gerber File Extension Report For: camera_board.GBR   20/06/2011  15:09:09
 ------------------------------------------------------------------------------------------
 
 
@@ -7,8 +7,6 @@ Gerber File Extension Report For: camera_board.GBR   19/06/2011  16:29:02
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GP1                Internal Plane 1                        
-.GP2                Internal Plane 2                        
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
